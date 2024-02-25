@@ -1,0 +1,16 @@
+{
+  "name": "ticket-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bot aktif"
+  },
+  "author": "cobra_1903",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "croxydb": "^0.0.22",
+    "discord.js": "^14.14.1"
+  }
+}
